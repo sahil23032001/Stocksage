@@ -1,0 +1,6 @@
+{
+  "name": "stocksage",
+  "version": "1.0.0",
+  "description": "AI Portfolio Health Analyzer powered by Groq",
+  "engines": { "node": ">=18" }
+}
